@@ -1,4 +1,6 @@
 ## gulp-example
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/luoyjx/gulp-example.svg)](https://greenkeeper.io/)
 gulp 工具使用示例
 
 ## changelog
